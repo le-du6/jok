@@ -1,9 +1,11 @@
 # jok
 Training stuff (don't use)
 
-|webpack.config.js | .babelrc | package.json
+|dir|files
+---|---
+|root|webpack.config.js | .babelrc | package.json
 ---|---|---
-|index.html | App.js | main.js
+|./src|index.html | App.js | main.js
 
 |./src
 
