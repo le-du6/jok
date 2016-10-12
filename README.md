@@ -1,9 +1,9 @@
 # jok
 Training stuff (don't use)
 
-|webpack.config.js |.babelrc |package.json |
------------------------------------------
-|index.html |App.js |main.js |
+|webpack.config.js | .babelrc | package.json
+---|---|---
+|index.html | App.js | main.js
 
 |./src
 
