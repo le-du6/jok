@@ -1,0 +1,39 @@
+{
+  "name": "jok",
+  "version": "1.0.0",
+  "description": "jok react router starter mini-kit",
+  "main": "",
+  "scripts": {
+    "start": "webpack-dev-server --progress --colors --config webpack.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/le-du6/jok.git"
+  },
+  "keywords": [
+    "jok",
+    "react",
+    "router",
+    "starter",
+    "mini-kit"
+  ],
+  "author": "Benoit LEGER-DERVILLE",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/le-du6/jok/issues"
+  },
+  "homepage": "https://github.com/le-du6/jok#readme",
+  "dependencies": {
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2",
+    "react-router": "^2.8.1"
+  },
+  "devDependencies": {
+    "babel-core": "^6.17.0",
+    "babel-loader": "^6.2.5",
+    "babel-preset-es2015": "^6.16.0",
+    "babel-preset-react": "^6.16.0",
+    "webpack": "^1.13.2",
+    "webpack-dev-server": "^1.16.2"
+  }
+}
