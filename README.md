@@ -1,13 +1,19 @@
 # jok
-Training stuff (don't use)
+React Router starter kit Training stuff 
+**- do not use this -**
 
-|dir|files
----|---
+|dir|files| | 
+|---|---|---|---
 |root|webpack.config.js | .babelrc | package.json
----|---|---
+|---|---|---|---
 |./src|index.html | App.js | main.js
 
-|./src
+|`4*2 modules`|*npm install*
+|---|---|---
+|`react`|react|react-router
+|`webpack`|webpack|webpack-dev-server
+|`babel`|babel-core|babel-loader
+|`presets`|babel-preset-es2015|babel-preset-react
 
 ```bash
 .
