@@ -9,7 +9,7 @@ React Router starter kit Training stuff
 |root|webpack.config.js | .babelrc | package.json
 |./src|index.html | App.js | main.js
 
-|`4*2 modules`|*npm install*| | |
+|`9 modules`|*npm install*| | |
 |---|---|---|---|
 |`react:`|react|react-router|react-dom
 |`webpack:`|webpack|webpack-dev-server| 
