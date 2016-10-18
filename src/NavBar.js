@@ -42,7 +42,7 @@ _handleSelectInvert(event, eventKey) {
       <Navbar inverse={this.state.invert} fixedTop={true}>
         <Navbar.Header>
           <Navbar.Brand>
-            <a href="#">🍒 6cured</a>
+            <a href="#">🍒 Cerised</a>
           </Navbar.Brand>
           <Navbar.Toggle />
         </Navbar.Header>
@@ -65,7 +65,7 @@ _handleSelectInvert(event, eventKey) {
           </Nav>
 
           <Nav pullRight>
-            <NavDropdown eventKey={3} title={Emojii({item: 'Benoit LEGER-DERVILLE'})} noCaret id="basic-nav-dropdown">
+            <NavDropdown eventKey={3} title={Emojii({item: 'Jean-Marc RENAUDIN'})} noCaret id="basic-nav-dropdown">
               <MenuItem eventKey={3.1}>
               <Image src={image} width={24} height={24} circle /> Edit Profile</MenuItem>
               <MenuItem eventKey={3.2}><i className="fa fa-user-plus fa-fw"></i> Manage Users</MenuItem>
